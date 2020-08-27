@@ -1,4 +1,4 @@
-# MFE_Rachit
+# Loan_chargeoff_status
 Data Source: kaggle.com
 Data Information: loan data for a US peer to peer lending firm called “LendingClub”
 Problem Statement: To model the probability of a loan becoming a Chargeoff/default in future. 
